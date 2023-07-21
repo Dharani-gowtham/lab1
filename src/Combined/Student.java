@@ -8,5 +8,6 @@ public class Student {
     public void printer(){
         System.out.println("Username is: " + name);
         System.out.println("Username is: " + dept);
+        System.out.println("Username is: " + college);
     }
 }
